@@ -8,14 +8,14 @@
     "description": "BLINk enables BNB holders to enjoy gaming experiences that WINk users on Tron have been enjoying for over two years.",
     "launchDate": "2020-11-20",
     "launchTime": "10:00:00",
-    "saleAmount": "100000000",
+    "saleAmount": 100000000,
     "raiseAmount": 1000000,
     "cakeToBurn": 500000,
     "projectSiteUrl": "https://blink.wink.org",
     "currency": "CAKE-BNB LP",
     "currencyAddress": "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
     "tokenDecimals": 18,
-    "releaseBlockNumber": 0
+    "releaseBlockNumber": 3279767
   },
   {
     "id": "5ffd7e81361bff0009cc8199",
@@ -26,14 +26,14 @@
     "description": "Ditto is the first elastic supply token on the Binance Smart Chain. Its goal is to maintain a stable price of $1, where its supply will adapt to changes in demand. All supply changes will apply equally to every wallet holding Ditto, and holders should always have the same % of the total supply",
     "launchDate": "2020-12-23",
     "launchTime": "04:00:00",
-    "saleAmount": "700000",
+    "saleAmount": 700000,
     "raiseAmount": 630000,
     "cakeToBurn": 315000,
     "projectSiteUrl": "https://ditto.money/",
     "currency": "CAKE-BNB LP",
     "currencyAddress": "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
     "tokenDecimals": 18,
-    "releaseBlockNumber": 0
+    "releaseBlockNumber": 3279767
   },
   {
     "id": "5ffd7e81361bff0009cc819a",
@@ -44,14 +44,14 @@
     "description": "Tenet is a cross-chain Automated Market Maker (AMM) connector that provides a decentralized Liquidity Tap for various tokens. The Liquidity Tap is the powerhouse of the Liquidity Pool, employing a dynamic algorithm to give the Liquidity Provider fairer, more efficient, and richer incentives. Tenet aims to build a cross-chain and cross-platform toolkit protocol that allows the demand side to customize the parameters of the liquidity tap, allowing them to reach out to more liquidity participants effectively and with relative ease.",
     "launchDate": "2020-01-05",
     "launchTime": "04:00:00",
-    "saleAmount": "1000000",
+    "saleAmount": 1000000,
     "raiseAmount": 1000000,
     "cakeToBurn": 500000,
     "projectSiteUrl": "https://www.tenet.farm/",
     "currency": "CAKE-BNB LP",
     "currencyAddress": "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
     "tokenDecimals": 18,
-    "releaseBlockNumber": 0
+    "releaseBlockNumber": 3483883
   },
   {
     "id": "5ffd7e82361bff0009cc819b",
@@ -62,13 +62,13 @@
     "description": "Helmet is a peer-to-peer insurance protocol written with options trading logic, which allows anyone to create any insurance policy easily in the market. Helmet aims to enable DeFi users to be protected against the risk of price fluctuations by providing price-shield insurance for BSC assets. They provide suppliers with a range of insurance types to sell, giving a variety of hedging strategies to the market.",
     "launchDate": "2020-01-13",
     "launchTime": "06:00:00",
-    "saleAmount": "10000000",
+    "saleAmount": 10000000,
     "raiseAmount": 1000000,
     "cakeToBurn": 500000,
     "projectSiteUrl": "https://www.helmet.insure/",
     "currency": "CAKE-BNB LP",
     "currencyAddress": "0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6",
     "tokenDecimals": 18,
-    "releaseBlockNumber": 0
+    "releaseBlockNumber": 3771926
   }
 ]
